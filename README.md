@@ -4,6 +4,20 @@ TokenJar is a simple onchain creator tipping application built on **Arc Testnet*
 
 It allows users to connect their wallet and send tips directly to a creator through a smart contract.
 
+## 🌐 Live Demo
+
+👉 https://lively-mandazi-0267cb.netlify.app/
+
+## 📜 Smart Contract
+
+**Network:** Arc Testnet
+
+**Contract Address:**
+
+`0xdb8aead8b746aa111e0dd759c6dcbbd017922ccb`
+
+> ⚠️ TokenJar is deployed on Arc Testnet for experimentation and learning. Testnet assets have no monetary value.
+
 ## ✨ Features
 
 - 🔗 Wallet connection
@@ -19,10 +33,10 @@ It allows users to connect their wallet and send tips directly to a creator thro
 - **Blockchain:** Arc Testnet
 - **Smart Contracts:** Solidity
 - **Frontend:** TypeScript
+- **UI:** React + Tailwind CSS
 - **Build Tool:** Vite
 - **Package Manager:** Bun
-- **Smart Contract Tooling:** Foundry
-- **UI:** React / Tailwind CSS
+- **Contract Tooling:** Foundry
 
 ## 📁 Project Structure
 
