@@ -1,7 +1,6 @@
+. Arc Creator Tip Jar
 
-### 2. Arc Creator Tip Jar
-
-```markdown
+``markdown
 # Arc Creator Tip Jar
 
 A simple onchain creator tipping application built on Arc Testnet using Arc Studio.
@@ -18,7 +17,7 @@ https://lively-mandazi-0267cb.netlify.app/
 
 **Contract Address:**
 
-`0xdb8aead8b746aa111e0dd759c6dcbbd017922ccb`
+0xdb8aead8b746aa111e0dd759c6dcbbd017922ccb
 
 ## Features
 
@@ -43,7 +42,7 @@ https://lively-mandazi-0267cb.netlify.app/
 
 ## Project Structure
 
-```text
+``text
 arc-creator-tip-jar/
 ├── contracts/        # Solidity smart contracts
 ├── scripts/          # Deployment and utility scripts
@@ -53,3 +52,35 @@ arc-creator-tip-jar/
 ├── package.json
 ├── vite.config.ts
 └── README.md
+
+## How It Works
+
+1. Connect your wallet.
+2. Enter the creator's tipping flow.
+3. Choose the amount to send.
+4. Confirm the transaction.
+5. The smart contract processes the tip on Arc Testnet.
+
+## Testnet Notice
+
+This project is deployed on Arc Testnet for learning and experimentation.
+
+Testnet assets have no monetary value.
+
+Never commit `.env`, private keys, or seed phrases.
+
+## Built With Arc Studio
+
+This project was built and tested using Arc Studio to explore smart contract development and onchain payment interactions on Arc Testnet.
+
+## Status
+
+Testnet project — built for experimentation and learning.
+
+## Author
+
+Built by [vijay0664kumar](https://github.com/vijay0664kumar)
+
+## License
+
+MIT
