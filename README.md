@@ -67,7 +67,7 @@ This project is deployed on Arc Testnet for learning and experimentation.
 
 Testnet assets have no monetary value.
 
-Never commit .env`, private keys, or seed phrases.
+Never commit .env` private keys, or seed phrases.
 
 ## Built With Arc Studio
 
